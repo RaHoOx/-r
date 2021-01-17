@@ -93,7 +93,7 @@ client.on(`message`, async (message) => {
       .setAuthor("Help Commands!","https://cdn.discordapp.com/attachments/748984375772840046/800453151177703486/bc77608849660570873f8eacc3ac6094.gif?v=1&size=64")
     .setImage('https://cdn.discordapp.com/attachments/748984375772840046/800453151177703486/bc77608849660570873f8eacc3ac6094.gif')
     
-    .setTitle("NEW UPDATE IN PLAY🎵")
+    .setTitle("NEW UPDATE IN PLAY <a:emoji_14:798996615989166132> ")
     .setFooter(`Requested by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
 
     .setDescription(`\`≪  Prefix Bot ${PREFIX}  ≫
