@@ -98,11 +98,43 @@ client.on(`message`, async (message) => {
 
     .setDescription(`\`≪  Prefix Bot ${PREFIX}  ≫
 
+      <a:emoji_36:800462529532657665> command music <a:emoji_36:800462529532657665>
+
+ <a:emoji_39:800462776564711455> h!loop 
+ <a:emoji_39:800462776564711455> h!lyrics
+ <a:emoji_39:800462776564711455> h!np                
+ <a:emoji_39:800462776564711455> h!pause
+ <a:emoji_39:800462776564711455> h!play                   
+ <a:emoji_39:800462776564711455> h!queue
+ <a:emoji_39:800462776564711455> h!radio                 
+ <a:emoji_39:800462776564711455> h!remove
+ <a:emoji_39:800462776564711455> h!resume             
+ <a:emoji_39:800462776564711455> h!search
+ <a:emoji_39:800462776564711455> h!shuffle              
+ <a:emoji_39:800462776564711455> h!skip
+ <a:emoji_39:800462776564711455> h!skipto               
+ <a:emoji_39:800462776564711455> h!stop
+ <a:emoji_39:800462776564711455> h!volume
+
+      <a:emoji_8:798993463831035916> Filter Commands <a:emoji_8:798993463831035916>
+
+ <a:emoji_19:799004464563748925> h!fi 8D
+ <a:emoji_19:799004464563748925> h!fi tremolo
+ <a:emoji_19:799004464563748925> h!fi vibrato
+ <a:emoji_19:799004464563748925> h!fi pulsator
+ <a:emoji_19:799004464563748925> h!fi clear
+ <a:emoji_19:799004464563748925> h!fi bassboost
+ <a:emoji_19:799004464563748925> h!fi vaporwave
+
+      <a:emoji_38:800462585131565066> Others <a:emoji_38:800462585131565066>
+ <a:emoji_33:799375002209615882> h!help              <a:emoji_33:799375002209615882> h!ping
+ <a:emoji_33:799375002209615882> h!prefix            <a:emoji_33:799375002209615882> h!uptime
 
 
 
 
-**[   SUPPORT  ](https://discord.gg/robot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=789888742928023573&permissions=8&scope=bot) -  [   WEBSITE   ](https://wobbly-petite-barberry.glitch.me)`)
+
+**[   SUPPORT  ](https://discord.gg/d8Q4v8rAWU)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=789888742928023573&permissions=8&scope=bot) `)
 
     //delete the Command
   //////  message.delete({timeout: 300})
