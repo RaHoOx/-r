@@ -90,8 +90,8 @@ client.on(`message`, async (message) => {
     const embed = new Discord.MessageEmbed()
     .setColor("RANDOM")
     .setThumbnail(message.author.avatarURL({dynamic: "true"}))
-      .setAuthor("Help Commands!","https://cdn.discordapp.com/attachments/748984375772840046/800487276173328445/f7179eb460f2925c2edab10872a3c6f6.gif?v=1&size=64")
-    .setImage('https://cdn.discordapp.com/attachments/748984375772840046/800487276173328445/f7179eb460f2925c2edab10872a3c6f6.gif')
+      .setAuthor("Help Commands!","https://cdn.discordapp.com/attachments/764595907609493555/800482652938698782/7169d355d45fae88fc3ef8c134951dfc.gif?v=1&size=64")
+    .setImage('https://cdn.discordapp.com/attachments/764595907609493555/800482652938698782/7169d355d45fae88fc3ef8c134951dfc.gif')
     
     .setTitle("NEW UPDATE IN PLAY <a:emoji_14:798996615989166132> ")
     .setFooter(`Requested by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
