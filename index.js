@@ -116,9 +116,9 @@ Music
 - ${PREFIX}volume(v)
 
 Others
-- ${PREFIX}help <a:emoji_6:798993412254335017> - ${PREFIX}ping <a:emoji_6:798993412254335017>
-- ${PREFIX}prefix <a:emoji_6:798993412254335017> -${PREFIX}uptime <a:emoji_6:798993412254335017>
-\`
+- ${PREFIX}help  - ${PREFIX}ping 
+- ${PREFIX}prefix  -${PREFIX}uptime 
+
 **[   SUPPORT  ](https://discord.gg/robot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=755768592104030208&permissions=8&scope=bot) -  [   WEBSITE   ](https://wobbly-petite-barberry.glitch.me)`)
 
     //delete the Command
