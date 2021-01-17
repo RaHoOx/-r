@@ -98,26 +98,9 @@ client.on(`message`, async (message) => {
 
     .setDescription(`\`≪  Prefix Bot ${PREFIX}  ≫
 
-Filter Commands
-- ${PREFIX}fi bassboost - ${PREFIX}fi 8D
-- ${PREFIX}fi vaporwave - ${PREFIX}fi nightcore 
-- ${PREFIX}fi phaser    - ${PREFIX}fi tremolo 
-- ${PREFIX}fi vibrato   - ${PREFIX}fi surrounding 
-- ${PREFIX}fi pulsator 
-- ${PREFIX}fi clear --- removes all filters
-Music
-<a:emoji_6:798993412254335017> ${PREFIX}loop(l)-${PREFIX}lyrics(ly)
-<a:emoji_6:798993412254335017> ${PREFIX}np(current)-${PREFIX}pause(pe)
-<a:emoji_6:798993412254335017> ${PREFIX}-play(p)-${PREFIX}queue(qu)
-<a:emoji_6:798993412254335017> ${PREFIX}radio(ro)-${PREFIX}remove(delete) 
-<a:emoji_6:798993412254335017> ${PREFIX}resume(r)${PREFIX}search(find)
-<a:emoji_6:798993412254335017> ${PREFIX}shuffle(mix)${PREFIX}-skip(s)
-<a:emoji_6:798993412254335017> ${PREFIX}skipto(st)-${PREFIX}stop(sp)
-<a:emoji_6:798993412254335017> ${PREFIX}volume(v)
 
-Others
-- ${PREFIX}help  - ${PREFIX}ping 
-- ${PREFIX}prefix  -${PREFIX}uptime 
+
+
 
 **[   SUPPORT  ](https://discord.gg/robot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=789888742928023573&permissions=8&scope=bot) -  [   WEBSITE   ](https://wobbly-petite-barberry.glitch.me)`)
 
