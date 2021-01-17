@@ -119,7 +119,7 @@ Others
 - ${PREFIX}help  - ${PREFIX}ping 
 - ${PREFIX}prefix  -${PREFIX}uptime 
 
-**[   SUPPORT  ](https://discord.gg/robot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=755768592104030208&permissions=8&scope=bot) -  [   WEBSITE   ](https://wobbly-petite-barberry.glitch.me)`)
+**[   SUPPORT  ](https://discord.gg/robot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=789888742928023573&permissions=8&scope=bot) -  [   WEBSITE   ](https://wobbly-petite-barberry.glitch.me)`)
 
     //delete the Command
   //////  message.delete({timeout: 300})
