@@ -126,7 +126,7 @@ client.on(`message`, async (message) => {
  <a:emoji_19:799004464563748925> h!fi bassboost
  <a:emoji_19:799004464563748925> h!fi vaporwave
 
-      <a:emoji_38:800462585131565066> Others <a:emoji_38:800462585131565066>
+      <a:emoji_13:798996360648327168> Others <a:emoji_13:798996360648327168>
  <a:emoji_33:799375002209615882> h!help              <a:emoji_33:799375002209615882> h!ping
  <a:emoji_33:799375002209615882> h!prefix            <a:emoji_33:799375002209615882> h!uptime
 
