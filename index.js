@@ -90,8 +90,8 @@ client.on(`message`, async (message) => {
     const embed = new Discord.MessageEmbed()
     .setColor("RANDOM")
     .setThumbnail(message.author.avatarURL({dynamic: "true"}))
-      .setAuthor("Help Commands!","https://cdn.discordapp.com/emojis/775437938142085170.gif?v=1&size=64")
-    .setImage('https://cdn.discordapp.com/attachments/788540660696481795/789364251512668190/ab45bb4451536652faca51ae4f42d5dd.gif')
+      .setAuthor("Help Commands!","https://cdn.discordapp.com/attachments/748984375772840046/800453151177703486/bc77608849660570873f8eacc3ac6094.gif?v=1&size=64")
+    .setImage('https://cdn.discordapp.com/attachments/748984375772840046/800453151177703486/bc77608849660570873f8eacc3ac6094.gif')
     
     .setTitle("NEW UPDATE IN PLAY🎵")
     .setFooter(`Requested by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -106,14 +106,14 @@ Filter Commands
 - ${PREFIX}fi pulsator 
 - ${PREFIX}fi clear --- removes all filters
 Music
-- ${PREFIX}loop(l)-${PREFIX}lyrics(ly)
-- ${PREFIX}np(current)-${PREFIX}pause(pe)
-- ${PREFIX}-play(p)-${PREFIX}queue(qu)
-- ${PREFIX}radio(ro)-${PREFIX}remove(delete) 
-- ${PREFIX}resume(r)${PREFIX}search(find)
-- ${PREFIX}shuffle(mix)${PREFIX}-skip(s)
-- ${PREFIX}skipto(st)-${PREFIX}stop(sp)
-- ${PREFIX}volume(v)
+<a:emoji_6:798993412254335017> ${PREFIX}loop(l)-${PREFIX}lyrics(ly)
+<a:emoji_6:798993412254335017> ${PREFIX}np(current)-${PREFIX}pause(pe)
+<a:emoji_6:798993412254335017> ${PREFIX}-play(p)-${PREFIX}queue(qu)
+<a:emoji_6:798993412254335017> ${PREFIX}radio(ro)-${PREFIX}remove(delete) 
+<a:emoji_6:798993412254335017> ${PREFIX}resume(r)${PREFIX}search(find)
+<a:emoji_6:798993412254335017> ${PREFIX}shuffle(mix)${PREFIX}-skip(s)
+<a:emoji_6:798993412254335017> ${PREFIX}skipto(st)-${PREFIX}stop(sp)
+<a:emoji_6:798993412254335017> ${PREFIX}volume(v)
 
 Others
 - ${PREFIX}help  - ${PREFIX}ping 
