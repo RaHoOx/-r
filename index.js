@@ -6,7 +6,7 @@ const db = require('quick.db');
 const { TOKEN, PREFIX, AVATARURL, BOTNAME, } = require(`./config.json`);
 const figlet = require("figlet");
 const client = new Client({ disableMentions: `` , partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
-client.login('Nzg5ODg4NzQyOTI4MDIzNTcz.X94nNw.iNzbHo6I-vLe4w5Vc40CeOSWbDU');
+client.login('Nzg5MTg0MzQ4MzcyNDY3NzMy.X9uXMg.EZJbzJ1CUvRvRheZgetAqWF1glI');
 client.commands = new Collection();
 client.setMaxListeners(0);
 client.prefix = PREFIX;
@@ -100,35 +100,35 @@ client.on(`message`, async (message) => {
 
       <a:emoji_36:800462529532657665> command music <a:emoji_36:800462529532657665>
 
- <a:emoji_39:800462776564711455> h!loop 
- <a:emoji_39:800462776564711455> h!lyrics
- <a:emoji_39:800462776564711455> h!np                
- <a:emoji_39:800462776564711455> h!pause
- <a:emoji_39:800462776564711455> h!play                   
- <a:emoji_39:800462776564711455> h!queue
- <a:emoji_39:800462776564711455> h!radio                 
- <a:emoji_39:800462776564711455> h!remove
- <a:emoji_39:800462776564711455> h!resume             
- <a:emoji_39:800462776564711455> h!search
- <a:emoji_39:800462776564711455> h!shuffle              
- <a:emoji_39:800462776564711455> h!skip
- <a:emoji_39:800462776564711455> h!skipto               
- <a:emoji_39:800462776564711455> h!stop
- <a:emoji_39:800462776564711455> h!volume
+ <a:emoji_39:800462776564711455> a?loop 
+ <a:emoji_39:800462776564711455> a?lyrics
+ <a:emoji_39:800462776564711455> a?np                
+ <a:emoji_39:800462776564711455> a?pause
+ <a:emoji_39:800462776564711455> a?play                   
+ <a:emoji_39:800462776564711455> a?queue
+ <a:emoji_39:800462776564711455> a?radio                 
+ <a:emoji_39:800462776564711455> a?remove
+ <a:emoji_39:800462776564711455> a?resume             
+ <a:emoji_39:800462776564711455> a?search
+ <a:emoji_39:800462776564711455> a?shuffle              
+ <a:emoji_39:800462776564711455> a?skip
+ <a:emoji_39:800462776564711455> a?skipto               
+ <a:emoji_39:800462776564711455> a?stop
+ <a:emoji_39:800462776564711455> a?volume
 
       <a:emoji_8:798993463831035916> Filter Commands <a:emoji_8:798993463831035916>
 
- <a:emoji_19:799004464563748925> h!fi 8D
- <a:emoji_19:799004464563748925> h!fi tremolo
- <a:emoji_19:799004464563748925> h!fi vibrato
- <a:emoji_19:799004464563748925> h!fi pulsator
- <a:emoji_19:799004464563748925> h!fi clear
- <a:emoji_19:799004464563748925> h!fi bassboost
- <a:emoji_19:799004464563748925> h!fi vaporwave
+ <a:emoji_19:799004464563748925> a?fi 8D
+ <a:emoji_19:799004464563748925> a?fi tremolo
+ <a:emoji_19:799004464563748925> a?fi vibrato
+ <a:emoji_19:799004464563748925> a?fi pulsator
+ <a:emoji_19:799004464563748925> a?fi clear
+ <a:emoji_19:799004464563748925> a?fi bassboost
+ <a:emoji_19:799004464563748925> a?fi vaporwave
 
       <a:emoji_13:798996360648327168> Others <a:emoji_13:798996360648327168>
- <a:emoji_33:799375002209615882> h!help              <a:emoji_33:799375002209615882> h!ping
- <a:emoji_33:799375002209615882> h!prefix            <a:emoji_33:799375002209615882> h!uptime
+ <a:emoji_33:799375002209615882> a?help              <a:emoji_33:799375002209615882> a?ping
+ <a:emoji_33:799375002209615882> a?prefix            <a:emoji_33:799375002209615882> a?uptime
 
 
 
