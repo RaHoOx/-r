@@ -90,8 +90,8 @@ client.on(`message`, async (message) => {
     const embed = new Discord.MessageEmbed()
     .setColor("RANDOM")
     .setThumbnail(message.author.avatarURL({dynamic: "true"}))
-      .setAuthor("Help Commands!","https://cdn.discordapp.com/attachments/807674391630184508/810147577743933470/069ccee7aea93c673c8c5c49b6cf7ac8.gif?v=1&size=64")
-    .setImage('https://cdn.discordapp.com/attachments/807674391630184508/810147577743933470/069ccee7aea93c673c8c5c49b6cf7ac8.gif')
+      .setAuthor("Help Commands!","https://cdn.discordapp.com/attachments/790328629908865036/813549070424735794/069ccee7aea93c673c8c5c49b6cf7ac8.gif?v=1&size=64")
+    .setImage('https://cdn.discordapp.com/attachments/790328629908865036/813549070424735794/069ccee7aea93c673c8c5c49b6cf7ac8.gif')
     
     .setTitle("NEW UPDATE IN PLAY <a:emoji_14:798996615989166132> ")
     .setFooter(`Requested by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -100,41 +100,41 @@ client.on(`message`, async (message) => {
 
       <a:emoji_36:800462529532657665> command music <a:emoji_36:800462529532657665>
 
- <a:emoji_39:800462776564711455> x!loop 
- <a:emoji_39:800462776564711455> x!lyrics
- <a:emoji_39:800462776564711455> x!np                
- <a:emoji_39:800462776564711455> x!pause
- <a:emoji_39:800462776564711455> x!play                   
- <a:emoji_39:800462776564711455> x!queue
- <a:emoji_39:800462776564711455> x!radio                 
- <a:emoji_39:800462776564711455> x!remove
- <a:emoji_39:800462776564711455> x!resume             
- <a:emoji_39:800462776564711455> x!search
- <a:emoji_39:800462776564711455> x!shuffle              
- <a:emoji_39:800462776564711455> x!skip
- <a:emoji_39:800462776564711455> x!skipto               
- <a:emoji_39:800462776564711455> x!stop
- <a:emoji_39:800462776564711455> x!volume
+ > <a:emoji_39:800462776564711455> x!loop 
+ > <a:emoji_39:800462776564711455> x!lyrics
+ > <a:emoji_39:800462776564711455> x!np                
+ > <a:emoji_39:800462776564711455> x!pause
+ > <a:emoji_39:800462776564711455> x!play                   
+ > <a:emoji_39:800462776564711455> x!queue
+ > <a:emoji_39:800462776564711455> x!radio                 
+ > <a:emoji_39:800462776564711455> x!remove
+ > <a:emoji_39:800462776564711455> x!resume             
+ > <a:emoji_39:800462776564711455> x!search
+ > <a:emoji_39:800462776564711455> x!shuffle              
+ > <a:emoji_39:800462776564711455> x!skip
+ > <a:emoji_39:800462776564711455> x!skipto               
+ > <a:emoji_39:800462776564711455> x!stop
+ > <a:emoji_39:800462776564711455> x!volume
 
       <a:emoji_8:798993463831035916> Filter Commands <a:emoji_8:798993463831035916>
 
- <a:emoji_19:799004464563748925> x!fi 8D
- <a:emoji_19:799004464563748925> x!fi tremolo
- <a:emoji_19:799004464563748925> x!fi vibrato
- <a:emoji_19:799004464563748925> x!fi pulsator
- <a:emoji_19:799004464563748925> x!fi clear
- <a:emoji_19:799004464563748925> x!fi bassboost
- <a:emoji_19:799004464563748925> x!fi vaporwave
+ > <a:emoji_19:799004464563748925> x!fi 8D
+ > <a:emoji_19:799004464563748925> x!fi tremolo
+ > <a:emoji_19:799004464563748925> x!fi vibrato
+ > <a:emoji_19:799004464563748925> x!fi pulsator
+ > <a:emoji_19:799004464563748925> x!fi clear
+ > <a:emoji_19:799004464563748925> x!fi bassboost
+ > <a:emoji_19:799004464563748925> x!fi vaporwave
 
       <a:emoji_13:798996360648327168> Others <a:emoji_13:798996360648327168>
- <a:emoji_33:799375002209615882> x!help              <a:emoji_33:799375002209615882> x!ping
- <a:emoji_33:799375002209615882> x!prefix            <a:emoji_33:799375002209615882> x!uptime
+ > <a:emoji_33:799375002209615882> x!help              <a:emoji_33:799375002209615882> x!ping
+ > <a:emoji_33:799375002209615882> x!prefix            <a:emoji_33:799375002209615882> x!uptime
 
 
 
 
 
-**[   SUPPORT  ](https://discord.gg/HqaFQMTxJ9)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=789184348372467732&permissions=8&scope=bot) `)
+**[   SUPPORT  ](https://discord.gg/XjcFtFMY9Q)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=769316820992655391&permissions=0&scope=bot) `)
 
     //delete the Command
   //////  message.delete({timeout: 300})
