@@ -134,7 +134,7 @@ client.on(`message`, async (message) => {
 
 
 
-**[   SUPPORT  ](https://discord.gg/XjcFtFMY9Q)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=769316820992655391&permissions=0&scope=bot) `)
+**[   SUPPORT  ](https://discord.gg/3VS5FMgaDM)** -  [   INVITE   ](https://discord.com/oauth2/authorize?client_id=769316820992655391&permissions=8&scope=bot) `)
 
     //delete the Command
   //////  message.delete({timeout: 300})
