@@ -96,7 +96,7 @@ client.on(`message`, async (message) => {
     .setTitle("NEW UPDATE IN PLAY <a:emoji_14:798996615989166132> ")
     .setFooter(`Requested by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
 
-    .setDescription(`\`≪  Prefix Bot ${PREFIX}  ≫
+   .setDescription(`\`≪  Prefix Bot ${PREFIX}  ≫
 
       <a:emoji_36:800462529532657665> command music <a:emoji_36:800462529532657665>
 
