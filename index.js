@@ -270,4 +270,4 @@ Locked By : <@${message.author.id}>
 });
 
 
-//Bot coded by Tomato#6966 
+//Bot coded by Tomato#6966
